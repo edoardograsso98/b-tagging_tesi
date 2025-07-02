@@ -1,4 +1,4 @@
-Bachelor's Thesis Project – Interactive Notebooks for Teaching Neural Networks
+# Bachelor's Thesis Project – Interactive Notebooks for Teaching Neural Networks
 
 As part of my Bachelor's thesis, I developed two interactive Jupyter notebooks designed to introduce advanced high school students to key concepts in neural networks. These materials were intended for students participating in a school-work alternation program at the University of Turin.
 
